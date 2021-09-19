@@ -20,11 +20,12 @@
 
 ![alt text](images/bike_repairs.png)
 
-![alt text](images/popular_starting_stations.png)
 
-![alt text](images/popular_ending_stations.png)
 
 ## Summary
 
+![alt text](images/popular_starting_stations.png)
+
+![alt text](images/popular_ending_stations.png)
 
 [Link to Bikesharing Story](https://public.tableau.com/app/profile/john6384/viz/NYC_Bikeshare_Story/NYCBikeshareStory?publish=yes)
