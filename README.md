@@ -22,7 +22,7 @@
 
 ![alt text](images/popular_starting_stations.png)
 
-![alt text](images/popular_ending_locations.png)
+![alt text](images/popular_ending_stations.png)
 
 ## Summary
 
