@@ -6,7 +6,7 @@
 
 ## Results
 
-![alt text](images/checkout_times_of_user.png)
+![alt text](images/Checkout_times_of_users.png)
 
 ## Summary
 
