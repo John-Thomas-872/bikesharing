@@ -22,16 +22,19 @@ What else can we learn about the people who use the bikes in NYC? The majority o
 
 ### Trips by Weekday per Hour
 When do the most people take the bikes? A quick glance at the chart shows that most people bike to work. The most bikes were used in the morning around 8 AM and in the evenings around 5-6 PM. Things to note are that much fewer rides are taken on Wednesday afternoons, but more people take bikes on Thursday evenings. 
+
 ![alt text](images/trips_by_weekday_per_hour.png)
 
 
 ### Trips by Gender
-Adding a filter of gender to look at the same inforamtion from the chart above, shows again that men take more rides than women.  
+Adding a filter of gender to look at the same inforamtion from the chart above, shows again that men take more rides than women. 
+
 ![alt text](images/trips_by_gender.png)
 
 
 ### User Type of Trips by Gender by Weekday
 The same information above is now broken down by the type of customers that use the bikes. This shows that the majority of riders are male, and subscibe to the bikesharing program. 
+
 ![alt text](images/user_trips_by_gender_by_weekday.png)
 
 
