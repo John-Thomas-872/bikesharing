@@ -8,6 +8,18 @@
 
 ![alt text](images/Checkout_times_of_users.png)
 
+![alt text](images/Checkout_times_by_gender.png)
+
+![alt text](images/Customer_Type.png)
+
+![alt text](images/trips_by_weekday_per_hour.png)
+
+![alt text](images/trips_by_gender.png)
+
+![alt text](images/user_trips_by_gender_by_weekday.png)
+
+![alt text](images/bike_repairs.png)
+
 ## Summary
 
 
