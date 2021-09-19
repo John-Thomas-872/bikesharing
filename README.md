@@ -9,4 +9,4 @@
 ## Summary
 
 
-[link to dashboard](https://public.tableau.com/app/profile/john6384/viz/NYC_Bikeshare_Story/NYCBikeshareStory?publish=yes)
+[Link to Bikesharing Story](https://public.tableau.com/app/profile/john6384/viz/NYC_Bikeshare_Story/NYCBikeshareStory?publish=yes)
