@@ -20,6 +20,10 @@
 
 ![alt text](images/bike_repairs.png)
 
+![alt text](images/popular_starting_stations.png)
+
+![alt text](images/popular_ending_locations.png)
+
 ## Summary
 
 
